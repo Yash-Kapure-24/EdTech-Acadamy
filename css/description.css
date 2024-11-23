@@ -1,0 +1,45 @@
+
+  /* Header Styles */
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  /* Main Content Styles */
+.right{
+    margin-top: 20%;
+}
+
+main{
+    margin-top: -28%;
+}
+  
+  .course-details,
+  .rating,
+  .instructor {
+    margin-bottom: 40px;
+  }
+  
+  .stars i {
+    color: #ffd700;
+  }
+  
+  .instructor img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 10px;
+  }
+  
+  .instructor a {
+    color: #6b5b95;
+    text-decoration: none;
+  }
+  
+  /* Footer Styles */
+  footer {
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+  }
